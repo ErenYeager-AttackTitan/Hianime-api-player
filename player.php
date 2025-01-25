@@ -1,3 +1,4 @@
+
 <?php
 $player_api= ""
 $id = $_GET['id'];
