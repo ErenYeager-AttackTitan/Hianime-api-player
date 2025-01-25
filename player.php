@@ -1,5 +1,5 @@
 <?php
-require('conf/_config.php');
+$player_api= ""
 $id = $_GET['id'];
 $ep = $_GET['ep'];
 
